@@ -1,1 +1,3 @@
-# Learn_Python_requests
+# Learn Python requests
+
+Sending requests and handling responses in Python.
